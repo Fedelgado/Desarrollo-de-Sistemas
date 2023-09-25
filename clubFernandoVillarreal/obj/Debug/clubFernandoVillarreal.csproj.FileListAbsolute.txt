@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\clubFernandoVillarreal\clubFernandoVillarreal\obj\Debug\clubFernandoVillarreal.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\clubFernandoVillarreal\clubFernandoVillarreal\obj\Debug\clubFernandoVillarreal.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\clubFernandoVillarreal\clubFernandoVillarreal\bin\Debug\clubFernandoVillarreal.exe.config
+C:\Users\PC\source\repos\clubFernandoVillarreal\clubFernandoVillarreal\bin\Debug\clubFernandoVillarreal.exe
+C:\Users\PC\source\repos\clubFernandoVillarreal\clubFernandoVillarreal\bin\Debug\clubFernandoVillarreal.pdb
+C:\Users\PC\source\repos\clubFernandoVillarreal\clubFernandoVillarreal\obj\Debug\clubFernandoVillarreal.exe
+C:\Users\PC\source\repos\clubFernandoVillarreal\clubFernandoVillarreal\obj\Debug\clubFernandoVillarreal.pdb
