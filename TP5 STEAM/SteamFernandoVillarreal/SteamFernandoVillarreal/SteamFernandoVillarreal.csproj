@@ -48,9 +48,7 @@
     <Compile Include="categoriaSoftware.cs" />
     <Compile Include="fecha.cs" />
     <Compile Include="juego.cs" />
-    <Compile Include="..\..\..\..\Desktop\Desarrollo-de-Sistemas\TP5 STEAM\plataforma.cs">
-      <Link>plataforma.cs</Link>
-    </Compile>
+    <Compile Include="Plata-forma.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="resenia.cs" />

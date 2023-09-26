@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace SteamFernandoVillarreal
 {
-    internal class plataforma
+    internal class Plata_forma
     {
+        private string nombre;
+        private List<aplicacion> aplicaciones;
+        private List<usuario> usuarios;
+
+        
     }
 }

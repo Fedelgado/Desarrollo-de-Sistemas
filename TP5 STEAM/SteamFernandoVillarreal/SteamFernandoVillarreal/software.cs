@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SteamFernandoVillarreal
 {
-    internal class software
+    internal class software : aplicacion
     {
         private categoriaSoftware Categoria;
 

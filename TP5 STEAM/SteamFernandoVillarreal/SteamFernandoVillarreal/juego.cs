@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SteamFernandoVillarreal
 {
-    internal class juego
+    internal class juego : aplicacion
     {
         private int edadMinima;
         private categoriaJuego Categoria;
