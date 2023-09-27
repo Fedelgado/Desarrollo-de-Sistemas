@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\Desarrollo-de-Sistemas\TP Casa Empeño\empeñofernandoVillarreal\empeñofernandoVillarreal\bin\Debug\empeñofernandoVillarreal.exe.config
+C:\Users\PC\Desktop\Desarrollo-de-Sistemas\TP Casa Empeño\empeñofernandoVillarreal\empeñofernandoVillarreal\bin\Debug\empeñofernandoVillarreal.exe
+C:\Users\PC\Desktop\Desarrollo-de-Sistemas\TP Casa Empeño\empeñofernandoVillarreal\empeñofernandoVillarreal\bin\Debug\empeñofernandoVillarreal.pdb
+C:\Users\PC\Desktop\Desarrollo-de-Sistemas\TP Casa Empeño\empeñofernandoVillarreal\empeñofernandoVillarreal\obj\Debug\empeñofernandoVillarreal.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Desarrollo-de-Sistemas\TP Casa Empeño\empeñofernandoVillarreal\empeñofernandoVillarreal\obj\Debug\empeñofernandoVillarreal.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Desarrollo-de-Sistemas\TP Casa Empeño\empeñofernandoVillarreal\empeñofernandoVillarreal\obj\Debug\empeñofernandoVillarreal.exe
+C:\Users\PC\Desktop\Desarrollo-de-Sistemas\TP Casa Empeño\empeñofernandoVillarreal\empeñofernandoVillarreal\obj\Debug\empeñofernandoVillarreal.pdb
